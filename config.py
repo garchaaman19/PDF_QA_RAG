@@ -1,1 +1,2 @@
-GROQ_API_KEY='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'
+GROQ_API_KEY=''
+#please replace with your groq API key
