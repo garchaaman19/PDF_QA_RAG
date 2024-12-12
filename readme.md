@@ -18,6 +18,7 @@ This bot allows users to upload a PDF file and ask questions about its content. 
 ├── requirements.txt  # Python dependencies
 ├── chroma_db/  # Directory to store ChromaDB embeddings
 ├── uploads/  # Directory to store uploaded PDFs
+├── demo_screenshots/  # Screenshots of app demo
 ```
 
 ---
